@@ -1,0 +1,11 @@
+@media (max-width: 500px) {
+    p {
+      text-align: center;
+    }
+  }
+  
+  @media (min-width: 501px) {
+    p {
+      text-align: left;
+    }
+  }
